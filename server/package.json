@@ -10,7 +10,7 @@
     "NodeJs",
     "GraphQL"
   ],
-  "author": "André Gomes",
+  "author": "Andrey Makarov",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
